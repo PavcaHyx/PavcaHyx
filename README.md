@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
+<a href="https://www.linkedin.com/in/pavlina-hyxova/" target="new">
+  <img align="left" alt="Pafca's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br /><br />
+
+I am **Pafča**, ....
+
+
+---
+
+🧡 &nbsp;&nbsp;About Me
+
+- :desktop_computer: I’m currently working as **Customer Support Lead** in **ROIhunter**
+- :hugs: I still provide support to our customers
+- 🐍: Im currently learning python, HTML, CSS
+- 📫  How to reach me: pavlina.hyxova@seznam.cz
+
+<br />
+
+🧡 &nbsp;&nbsp;My Passions
+<section style="float: left;">
+- ⛰️ Hiking in mountains
+- 🚴 Cycling
+- :running_woman: Running
+- :coffee: Coffee and wine
+</section>
+
