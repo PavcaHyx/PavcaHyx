@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 </a>
 <br /><br />
 
+<img src="https://github.com/PavcaHyx/PavcaHyx/blob/main/mountain-climbing.jpg" align="right" height="200" />
+
 I am **Pafča**, ....
 
 
