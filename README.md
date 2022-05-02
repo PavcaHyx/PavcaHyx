@@ -29,7 +29,8 @@ I am **Pafča**, ....
 🧡 &nbsp;&nbsp;About Me
 
 - :desktop_computer: I’m currently working as **Customer Support Lead** in **ROIhunter**
-- :hugs: I still provide support to our customers
+- :hugs: I still provide support to our customers 💙
+- 🎵 Im coorganizator of one small festival <a href="https://www.hlineckyfolkovyspekacek.cz/" target="new">
 - 🐍: Im currently learning python, HTML, CSS
 - 📫  How to reach me: pavlina.hyxova@seznam.cz
 
@@ -41,5 +42,6 @@ I am **Pafča**, ....
 - 🚴 Cycling
 - :running_woman: Running
 - :coffee: Coffee and wine
+- 🌲 forest lover
 </section>
 
