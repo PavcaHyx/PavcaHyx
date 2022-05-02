@@ -32,8 +32,9 @@ I am **Pafča**, ....
 
 - :desktop_computer: I’m currently working as **Customer Support Lead** in **ROIhunter**
 - :hugs: I still provide support to our customers 💙
-- 🎵 Im coorganizator of one small festival <a href="https://www.hlineckyfolkovyspekacek.cz/" target="new"> Hlinecký folkový špekáček</a>
+- 🤗 I programe small tools that help my coworkes in their daily work
 - 🐍: Im currently learning python, HTML, CSS
+- 🎵 Im coorganizator of one small festival <a href="https://www.hlineckyfolkovyspekacek.cz/" target="new"> Hlinecký folkový špekáček</a>
 - 📫  How to reach me: pavlina.hyxova@seznam.cz
 
 <br />
