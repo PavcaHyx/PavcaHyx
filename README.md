@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 - ⛰️ Hiking in mountains
 - 🚴 Cycling
 - :running_woman: Running
+- 🎨 drawing  
 - :coffee: Coffee and wine
 - 🌲 forest lover
 </section>
