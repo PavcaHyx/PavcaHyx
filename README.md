@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 <br /><br />
 
 
-    <img src="https://github.com/PavcaHyx/PavcaHyx/blob/main/mountain-climbing_01.png" align="right" height="200" />
+<img src="https://github.com/PavcaHyx/PavcaHyx/blob/main/mountain-climbing_01.png" align="right" height="200" />
 
-
-      I am **Pafča**, I have been working as Customer Support Lead.  I like the fact that I can help to people and make them happy due to solving their issues.  My big passion in last years is exploring the programming language Python, HTML, CSS.  I really love when I can create some tools that  will help to automate daily routines of my colleagues.   
+I am **Pafča**, I have been working as Customer Support Lead.  I like the fact that I can help to people and make them happy due to solving their issues.  My big passion in last years is exploring the programming language Python, HTML, CSS.  I really love when I can create some tools that  will help to automate daily routines of my colleagues.   
 
 
 ---
