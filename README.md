@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </div>
                                                                                                             
   <div class="col-md-7">
-      I am **Pafča**, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      I am **Pafča**, I have been working as Customer Support Lead.  I like the fact that I can help to people and make them happy due to solving their issues.  My big passion in last years is exploring the programming language Python, HTML, CSS.  I really love when I can create some tools that  will help to automate daily routines of my colleagues.   
   </div>
 </section>
 
