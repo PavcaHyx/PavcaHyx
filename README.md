@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/PavcaHyx/PavcaHyx/blob/main/mountain-climbing_01.png" align="right" height="200" />
 
-I am **Pafča**, I have been working as Customer Support Lead.  I like the fact that I can help to people and make them happy due to solving their issues.  My big passion in last years is exploring the programming language Python and HTML, CSS.  I really love when I can create some tools that  will help to automate daily routines of my colleagues.  Im also happy that I can train my brain thanks the programming and I have a lot of opportunities to learn new things 🤓
+I am **Pafča**, I have been working as Customer Support Lead.  I like the fact that I can help to people and make them happy due to solving their issues.  My big passion in last years is exploring the programming language Python and HTML, CSS. 
+I really love when I can create some tools that  will help to automate daily routines of my colleagues.  Im also happy that I can train my brain thanks the programming and I have a lot of opportunities to learn new things 🤓
 
 
 ---
