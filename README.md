@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=C1651B&size=30&lines=Hi+there!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=C1651B&size=30&lines=Hi+there!)](https://git.io/typing-svg) 👋
 
 <!--
 **PavcaHyx/PavcaHyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
