@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <br />
-<a href="https://www.linkedin.com/in/pavlina-hyxova/" target="new">
-  <img align="left" alt="Pafca's LinkedIN" width="22px" src="[C:\Users\pavlina.hyxova\PycharmProjects/ln.png]" />
-</a>
+<a href="https://www.linkedin.com/in/pavlina-hyxova/" target="new"> Linkedin profile </a>
+
+[comment]: <> (  <img align="left" alt="Pafca's LinkedIN" width="22px" src="C:\Users\pavlina.hyxova\PycharmProjects\PavcaHyx\ln.png">)
+
 <br /><br />
 
 
