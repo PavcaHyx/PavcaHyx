@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 <a href="https://www.linkedin.com/in/pavlina-hyxova/" target="new">
-  <img align="left" alt="Pafca's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Pafca's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F81%2FLinkedIn_icon.svg%2F2048px-LinkedIn_icon.svg.png&tbnid=TUwrfYAbg9Zk_M&vet=12ahUKEwiinse647-AAxUdrycCHb8hBy8QMygAegUIARDMAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&docid=SHUZVHiQtAectM&w=2048&h=2048&q=linkedin%20icom&ved=2ahUKEwiinse647-AAxUdrycCHb8hBy8QMygAegUIARDMAQ)" />
 </a>
 <br /><br />
 
